@@ -1,3 +1,6 @@
+# Demo CI state
+[![Build Status](https://travis-ci.com/Firenz/jest-integrations-playground.svg?branch=master)](https://travis-ci.com/Firenz/jest-integrations-playground)
+
 # 01 Code Coverage
 
 In this sample we are going to add test coverage to our project.
